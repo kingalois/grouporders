@@ -4,6 +4,12 @@ import java.util.UUID;
 
 import org.junit.Test;
 
+import at.muehleder.grouporders.main.data.GroupOrder;
+import at.muehleder.grouporders.main.data.GroupOrderManager;
+import at.muehleder.grouporders.main.data.Item;
+import at.muehleder.grouporders.main.data.Order;
+import at.muehleder.grouporders.main.data.OrderPosition;
+
 public class TestGroupOrderManager {
 	
 	@Test

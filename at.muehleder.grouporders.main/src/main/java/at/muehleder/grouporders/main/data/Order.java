@@ -1,4 +1,4 @@
-package at.muehleder.grouporders.data;
+package at.muehleder.grouporders.main.data;
 
 import java.util.ArrayList;
 import java.util.Iterator;
